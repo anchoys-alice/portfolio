@@ -70,3 +70,8 @@ header {
 .link-nav:hover {
     color: #009999;
 }
+
+h3 {
+    background-color: #FF8540;
+    padding: 30px;
+}
